@@ -1,9 +1,9 @@
 [
   {
-    "file": "experiments/example.js",
-    "name": "Name of your experiment",
-    "description": "Explains the what and the why. What is the main idea? What is the purpose? Describes the coding process and implementation choices and gives a high level system overview.",
-    "background": "Positions the work in a context by presenting related work and introducing aesthetic or scientific theories related to the work.",
-    "github": "https://www.github.com/pixelkind"
+    "file": "experiments/lab1.js",
+    "name": "Climb to the top",
+    "description": "The main idea is to climb to the top of the mountain, enjoy the beauty of the mountains and challenge yourself to experience life. In the process of climbing, difficulties and challenges need to be overcome constantly, just like our life. But when we stand on the top of the mountain and overlook the surrounding mountains and scenery, we will find that it is all worth it. When drawing mountains, the author used an array and then used a for loop to traverse the color array to add different mountain colors to increase the visual effect. Set the height offset of each hill according to the return value of the map() function. And by using the noise() function to generate a noise function based on Perlin noise and map it to a height value, the curved shape of the mountain is created.",
+    "background": "The work shows a view of the mountains from the top of the hill. The process of climbing is just like our life, only keep moving forward, reach the top of the mountain, look around, the kind of shock and satisfaction that has never been experienced before is the best return of all previous efforts. Similarly, in our life journey, in the face of difficulties and setbacks, we also need to persevere, because only in this way can we truly experience the depth and breadth of life.",
+    "github": "https://github.com/ju-nmd2021/creative-coding-portfolio-TheHunkyNeil"
   }
 ]

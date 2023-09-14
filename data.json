@@ -1,9 +1,17 @@
 [
   {
-    "file": "experiments/lab1/lab1.js",
+    "file": "experiments/lab1.js",
     "name": "Climb to the top",
     "description": "The main idea is to climb to the top of the mountain, enjoy the beauty of the mountains and challenge yourself to experience life. In the process of climbing, difficulties and challenges need to be overcome constantly, just like our life. But when we stand on the top of the mountain and overlook the surrounding mountains and scenery, we will find that it is all worth it. When drawing mountains, the author used an array and then used a for loop to traverse the color array to add different mountain colors to increase the visual effect. Set the height offset of each hill according to the return value of the map() function. And by using the noise() function to generate a noise function based on Perlin noise and map it to a height value, the curved shape of the mountain is created.",
     "background": "The work shows a view of the mountains from the top of the hill. The process of climbing is just like our life, only keep moving forward, reach the top of the mountain, look around, the kind of shock and satisfaction that has never been experienced before is the best return of all previous efforts. Similarly, in our life journey, in the face of difficulties and setbacks, we also need to persevere, because only in this way can we truly experience the depth and breadth of life.",
+    "github": "https://github.com/ju-nmd2021/creative-coding-portfolio-TheHunkyNeil"
+  },
+
+  {
+    "file": "experiments/lab2.js",
+    "name": "Double Ball Dance",
+    "description": "An interactive 3D art in which two spheres dance across a digital canvas, chasing the user's cursor. The closer the cursor is, the faster and more eager the spheres become. The art allows the viewer to become part of the creation. This art was inspired by examples from the class: https://ju.slides.com/garrit/cc-2023-complexity?token=AbjTIZo5#/5/7.",
+    "background": "Inspired by movement in the universe, the Double Ball Dance plays on the fundamental nature of attraction. The chase represents the eternal attraction that exists in nature.",
     "github": "https://github.com/ju-nmd2021/creative-coding-portfolio-TheHunkyNeil"
   }
 ]

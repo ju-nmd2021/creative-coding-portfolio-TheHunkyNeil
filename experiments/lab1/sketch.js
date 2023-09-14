@@ -11,7 +11,7 @@ function setup() {
     color(135, 150, 135),
     color(110, 130, 110),
     color(85, 105, 85),
-    color(60, 80, 60),
+    color(60, 80, 50),
   ];
 
   //fill mountain color

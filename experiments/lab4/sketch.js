@@ -34,7 +34,7 @@ function draw() {
 
   push();
   translate(position.x, position.y);
-  box(50);
+  box(70);
   pop();
 
   //The following 21 lines of code were inspired and adapted from https://ju.slides.com/garrit/cc-2023-complexity?token=AbjTIZo5#/5/7 Accessed: 2023-09-13
@@ -72,7 +72,7 @@ function draw() {
 
   push();
   translate(position2.x, position2.y);
-  plane(35);
+  plane(50);
   pop();
 
   if (drag) {

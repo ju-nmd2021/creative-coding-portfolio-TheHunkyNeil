@@ -18,8 +18,16 @@
   {
     "file": "experiments/lab3/sketch.js",
     "name": "Double Ball Dance with Sound",
-    "description": "An interactive 3D art in which two spheres dance across a digital canvas, chasing the user's cursor. The closer the cursor is, the faster and more eager the spheres become. The art allows the viewer to become part of the creation. This art was inspired by examples from the class: https://ju.slides.com/garrit/cc-2023-complexity?token=AbjTIZo5#/5/7.",
+    "description": "An interactive 3D art in which two spheres dance across a digital canvas, chasing the user's cursor. The closer the cursor is, the faster and more eager the sphere becomes. When the sphere hits the edge of the canvas, different sounds are automatically generated. This art was inspired by an example from the class: https://ju.slides.com/garrit/cc-2023-complexity?token=AbjTIZo5#/5/7.",
     "background": "Inspired by movement in the universe, the Double Ball Dance plays on the fundamental nature of attraction. The chase represents the eternal attraction that exists in nature.",
+    "github": "https://github.com/ju-nmd2021/creative-coding-portfolio-TheHunkyNeil"
+  },
+
+  {
+    "file": "experiments/lab4/sketch.js",
+    "name": "3D aesthetics",
+    "description": "An interactive 3D art in which two 3D dance across a digital canvas, chasing the user's cursor. The closer the cursor is, the faster and more eager the spheres become. The art allows the viewer to become part of the creation. This art was inspired by examples from the class: https://ju.slides.com/garrit/cc-2023-complexity?token=AbjTIZo5#/5/7.",
+    "background": "Inspired by movement in the universe. The chase represents the eternal attraction that exists in nature.",
     "github": "https://github.com/ju-nmd2021/creative-coding-portfolio-TheHunkyNeil"
   }
 ]

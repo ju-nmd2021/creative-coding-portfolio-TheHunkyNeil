@@ -12,7 +12,15 @@ let angleY = 0;
 let lastMouseX;
 let lastMouseY;
 
+let color1;
+let color2;
+
 let drag = false;
+
+function preload() {
+  color1 = loadImage("color1.png");
+  color2 = loadImage("color2.png");
+}
 
 function setup() {
   createCanvas(800, 800, WEBGL);
@@ -26,6 +34,9 @@ function setup() {
 function draw() {
   background(255);
 
+  pointLight(250, 250, 250, 250, 250, 0);
+  ambientLight(150);
+
   rotateX(angleX);
   rotateY(angleY);
 
@@ -34,6 +45,7 @@ function draw() {
 
   push();
   translate(position.x, position.y);
+  texture(color1);
   box(70);
   pop();
 
@@ -72,6 +84,7 @@ function draw() {
 
   push();
   translate(position2.x, position2.y);
+  texture(color2);
   plane(50);
   pop();
 

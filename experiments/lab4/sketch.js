@@ -18,8 +18,8 @@ let color2;
 let drag = false;
 
 function preload() {
-  color1 = loadImage("color1.png");
-  color2 = loadImage("color2.png");
+  color1 = loadImage("./color1.png");
+  color2 = loadImage("./color2.png");
 }
 
 function setup() {

@@ -29,5 +29,16 @@
     "description": "An interactive 3D art in which two 3D dance across a digital canvas, chasing the user's cursor. The closer the cursor is, the faster and more eager the spheres become. The art allows the viewer to become part of the creation. This art was inspired by examples from the class: https://ju.slides.com/garrit/cc-2023-complexity?token=AbjTIZo5#/5/7.",
     "background": "Inspired by movement in the universe. The chase represents the eternal attraction that exists in nature.",
     "github": "https://github.com/ju-nmd2021/creative-coding-portfolio-TheHunkyNeil"
+  },
+
+  {
+    "file": "experiments/lab5/sketch.js",
+    "name": "Sunset by the sea",
+    "description": "The lab5 project, with the theme 'Sunset by the sea', is based on lab1, reworking its aesthetics and utilizing the dynamic and versatile Perlin noise function to simulate the changing sea surface. Each click generates a new, unique water surface with a sun in a different position and color. It might be sunset, it might be sunrise, it might be cloudy.",
+    "background": "Inspired by the dynamic and versatile Perlin noise, which can play the role of undulating sea surfaces.",
+    "github": "https://github.com/ju-nmd2021/creative-coding-portfolio-TheHunkyNeil"
   }
+
+
+  
 ]
